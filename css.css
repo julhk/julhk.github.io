@@ -1,12 +1,12 @@
 body{
 	
-font-family: "Helvetica", "Arial", fantasy;
+font-family: "Times New Roman", "Times", "serif" fantasy;
 	
-color: #AAFF00;
-	background-color: #ADD3F9;
+color: #2f2323;
+	background-color: #cef7f2;
 	
-text-shadow: 1px 1px #ff0000;
-	text-align: center;
+text-shadow: 0px 0px #6495ed;
+	text-align: left;
 
 }
 
@@ -18,7 +18,7 @@ font-size: 1.3em;
 	
 text-align: center;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 0px 0px #6495ed;
 
 }
 
